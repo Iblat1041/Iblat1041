@@ -16,10 +16,6 @@
 - **Дополнительно**: Linux, CI/CD, Prometheus, FastAdmin, WordPress
 - **Интересы**: Веб-разработка, парсинг данных, ML-интеграции, автоматизация
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iblat1041&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iblat1041&show_icons=true&theme=radical&hide_border=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Iblat1041&theme=radical)
-
 ### 🔥 Ключевые проекты
 - **[Telegram-бот для пребординга и онбординга](https://github.com/Iblat1041/TG_preboarding_onboarding_restaurant)**  
   Асинхронный API-сервис на FastAPI для ресторанов. Реализовал тесты, сохранение результатов в БД и интеграцию с моделями.  
