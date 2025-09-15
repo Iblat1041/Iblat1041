@@ -18,27 +18,21 @@
 ### 🔥 Ключевые проекты
 - **[WRESTRUS90: Telegram-бот с VK-интеграцией](https://github.com/Iblat1041/WRESTRUS90)**  
   Телеграмм бот с парсингом постов VK, FastAdmin-панелью и уведомлениями. Настроен CI/CD и мониторинг.  
-  **Стек**: Python, FastAPI, PostgreSQL, Redis, Celery, Docker, VK API.
 
 - **[Telegram-бот для пребординга и онбординга](https://github.com/Iblat1041/TG_preboarding_onboarding_restaurant)**  
   Асинхронный API-сервис на FastAPI для ресторанов. Реализовал тесты, сохранение результатов в БД и интеграцию с моделями.  
-  **Стек**: Python, FastAPI, Aiogram, PostgreSQL, SQLAlchemy, Docker.
 
 - **[QRKot: Благотворительный фонд](https://github.com/Iblat1041/cat_charity_fund)**  
   Асинхронный API на FastAPI для управления пожертвованиями.  
-  **Стек**: Python, FastAPI, SQLAlchemy, Alembic, FastAPI Users.
 
 - **[Foodgram: Социальная сеть рецептов](https://github.com/Iblat1041/foodgram)**  
   Платформа для публикации рецептов с избранным и подписками. Развёрнута на сервере.  
-  **Стек**: Python, Django, PostgreSQL, Nginx, Docker.
 
 - **[API для Yatube](https://github.com/Iblat1041/api_final_yatube)**  
   REST API для блоговой платформы.  
-  **Стек**: Python, Django, Django REST Framework, Simple JWT.
 
 - **[Scrapy Parser PEP](https://github.com/Iblat1041/scrapy_parser_pep)**  
   Парсер для стандартов Python (PEP) с использованием Scrapy.  
-  **Стек**: Python, Scrapy.
 
 Полный список проектов: [github.com/Iblat1041](https://github.com/Iblat1041?tab=repositories)
 
