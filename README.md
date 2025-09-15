@@ -31,6 +31,10 @@
 
 Полный список проектов: [github.com/Iblat1041](https://github.com/Iblat1041?tab=repositories)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iblat1041&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iblat1041&show_icons=true&theme=radical&hide_border=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Iblat1041&theme=radical)
+
 ### 🧑‍💻 Обо мне
 Программирование для меня — способ создавать полезные инструменты. Python выбрал за его универсальность: от веб-разработки до ML. Постоянно учусь: изучаю новые технологии, работаю над pet-проектами.  
 **Хобби**:  
