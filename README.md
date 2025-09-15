@@ -5,7 +5,6 @@
 - 📧 **Связаться**: [brezhev@ya.ru](mailto:brezhev@ya.ru)
 - 💬 **Telegram**: [t.me/Ivan_1041](https://t.me/Ivan_1041)
 - 💼 **GitHub**: [github.com/Iblat1041](https://github.com/Iblat1041)
-- 🌐 **Сайт**: [wrestrus90.ru](https://wrestrus90.ru)
 
 ### 🛠️ Мои навыки
 - **Языки**: Python, SQL
