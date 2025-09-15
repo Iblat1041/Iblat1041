@@ -44,9 +44,6 @@
 
 **Полный список проектов**: [github.com/Iblat1041](https://github.com/Iblat1041)
 
-### 📊 Статистика GitHub
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Iblat1041)](https://github.com/ryo-ma/github-profile-trophy)
-
 Готов к тестовым заданиям и собеседованиям. Связаться со мной: [t.me/Ivan_1041](https://t.me/Ivan_1041).
 
 <div align="center">
