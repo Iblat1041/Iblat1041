@@ -8,8 +8,7 @@
 - 🌍 **Проживаю**: Мытищи, Московская область  
 - 📧 **Email**: [brezhev@ya.ru](mailto:brezhev@ya.ru)  
 - 💬 **Telegram**: [t.me/Ivan_1041](https://t.me/Ivan_1041)  
-- 💼 **GitHub**: [github.com/Iblat1041](https://github.com/Iblat1041)  
-- 🌐 **Сайт**: [wrestrus90.ru](https://wrestrus90.ru)
+- 💼 **GitHub**: [github.com/Iblat1041](https://github.com/Iblat1041)
 
 ### 🛠️ Мои навыки
 | Категория           | Технологии и инструменты                                      |
