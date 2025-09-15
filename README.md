@@ -1,35 +1,72 @@
-### 👋 Привет! Меня зовут [Ваше имя или ник, например, Pusherfi]
-Я — **бэкенд-разработчик** с опытом в Python, FastAPI и ML-интеграциях. Специализируюсь на парсерах данных, API и инструментах для PR-аналитики. Люблю создавать полезные MVP для реальных задач.
+### 👋 Привет! Меня зовут Иван Брежнев
+Я — **Python-разработчик** с более чем 2 годами опыта в создании API, парсеров и Telegram-ботов. Специализируюсь на бэкенд-разработке, интеграции ML и автоматизации процессов. Моя цель — создавать инструменты, которые упрощают жизнь и решают сложные задачи. Живу в Мытищах, готов к работе в Москве или Московской области.
 
-- 🌍 Из [ваш город/страна]
-- 📧 Связаться: [ваш-email@example.com](mailto:ваш-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/pusherfi](https://linkedin.com/in/pusherfi)
-- 🐦 Twitter/X: [@pusherfi](https://x.com/pusherfi)
+- 🌍 **Проживаю**: Мытищи, Московская область
+- 📧 **Связаться**: [brezhev@ya.ru](mailto:brezhev@ya.ru)
+- 💬 **Telegram**: [t.me/Ivan_1041](https://t.me/Ivan_1041)
+- 💼 **GitHub**: [github.com/Iblat1041](https://github.com/Iblat1041)
+- 🌐 **Сайт**: [wrestrus90.ru](https://wrestrus90.ru)
 
 ### 🛠️ Мои навыки
-- **Языки**: Python, JavaScript
-- **Фреймворки**: FastAPI, React (для фронта)
-- **Инструменты**: Docker, PostgreSQL, Hugging Face (ML)
-- **Интересы**: Веб-разработка, ИИ-рекомендации, парсинг новостей
+- **Языки**: Python, SQL
+- **Фреймворки**: FastAPI, Django, Django REST Framework, Flask, Scrapy
+- **Базы данных**: PostgreSQL, SQLite, SQLAlchemy, Alembic
+- **Инструменты**: Docker, Docker Compose, GitHub, GitHub Actions, Celery, Redis, nginx, Pytest, Unittest
+- **API**: Telegram API, VK API, REST API, JWT-аутентификация
+- **Дополнительно**: Linux, CI/CD, Prometheus, FastAdmin, WordPress
+- **Интересы**: Веб-разработка, парсинг данных, ML-интеграции, автоматизация
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pusherfi&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pusherfi&show_icons=true&theme=radical&hide_border=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=pusherfi&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iblat1041&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iblat1041&show_icons=true&theme=radical&hide_border=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Iblat1041&theme=radical)
 
-### 🔥 Популярные проекты
-- **[Проект 1: News Parser](https://github.com/pusherfi/news-parser)**: Парсер новостей с анализом тональности. Использует Scrapy и ML.
-- **[Проект 2: AI Recommendations](https://github.com/pusherfi/ai-recs)**: Система рекомендаций для PR-специалистов на базе FastAPI.
-- **[Проект 3: Dashboard MVP](https://github.com/pusherfi/dashboard-mvp)**: Визуализация данных для аналитики СМИ.
+### 🔥 Ключевые проекты
+- **[Telegram-бот для пребординга и онбординга](https://github.com/Iblat1041/TG_preboarding_onboarding_restaurant)**  
+  Асинхронный API-сервис на FastAPI для ресторанов. Реализовал тесты, сохранение результатов в БД и интеграцию с моделями.  
+  **Стек**: Python, FastAPI, Aiogram, PostgreSQL, SQLAlchemy, Docker.
+
+- **[WRESTRUS90: Telegram-бот с VK-интеграцией](https://github.com/Iblat1041/WRESTRUS90)**  
+  Pet-проект: бот с парсингом постов VK, FastAdmin-панелью и уведомлениями. Настроен CI/CD и мониторинг.  
+  **Стек**: Python, FastAPI, PostgreSQL, Redis, Celery, Docker, VK API.
+
+- **[QRKot: Благотворительный фонд](https://github.com/Iblat1041/cat_charity_fund)**  
+  Асинхронный API на FastAPI для управления пожертвованиями.  
+  **Стек**: Python, FastAPI, SQLAlchemy, Alembic, FastAPI Users.
+
+- **[Foodgram: Социальная сеть рецептов](https://github.com/Iblat1041/foodgram)**  
+  Платформа для публикации рецептов с избранным и подписками. Развёрнута на сервере.  
+  **Стек**: Python, Django, PostgreSQL, Nginx, Docker.
+
+- **[API для Yatube](https://github.com/Iblat1041/api_final_yatube)**  
+  REST API для блоговой платформы.  
+  **Стек**: Python, Django, Django REST Framework, Simple JWT.
+
+- **[Scrapy Parser PEP](https://github.com/Iblat1041/scrapy_parser_pep)**  
+  Парсер для стандартов Python (PEP) с использованием Scrapy.  
+  **Стек**: Python, Scrapy.
+
+Полный список проектов: [github.com/Iblat1041](https://github.com/Iblat1041)
 
 ### 📊 Статистика GitHub
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pusherfi)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Iblat1041)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🎓 Образование и курсы
+- **2009**: Подольский социально-спортивный институт, Менеджмент организации
+- **2023–2025**: Яндекс Практикум, Python Developer: Extended Program
+- Дополнительно: Курсы на Stepik (алгоритмы, структуры данных)
+
+### 🧑‍💻 Обо мне
+Программирование для меня — способ создавать полезные инструменты. Python выбрал за его универсальность: от веб-разработки до ML. Постоянно учусь: изучаю новые технологии, работаю над pet-проектами.  
+**Хобби**:  
+- 3D-моделирование (Blender, SolidWorks, ArtCAM), печать на 3D-принтере, фрезерный ЧПУ.  
+- Спорт, игра на гитаре, отдых на природе.  
 
 ### 🎯 Что я ищу
-Открыт для коллабораций в области ИИ и веб-разработки. Если у вас есть интересный проект — пишите!
+Готов к новым вызовам в бэкенд-разработке, особенно в проектах с API, ML и автоматизацией. Открыт для тестовых заданий и собеседований. Пишите в Telegram: [t.me/Ivan_1041](https://t.me/Ivan_1041)!
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pusherfi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Iblat1041&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
-⭐ Star'ьте репозитории, если они полезны! 🚀
+⭐ Если мои проекты полезны, поставьте звёздочку! 🚀
