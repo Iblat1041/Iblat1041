@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Pusherfi!;Full-Stack+Developer;Passionate+about+AI+and+Web+Tech" alt="Typing SVG" />
-</div>
-
 ### 👋 Привет! Меня зовут [Ваше имя или ник, например, Pusherfi]
 Я — **бэкенд-разработчик** с опытом в Python, FastAPI и ML-интеграциях. Специализируюсь на парсерах данных, API и инструментах для PR-аналитики. Люблю создавать полезные MVP для реальных задач.
 
