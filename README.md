@@ -21,9 +21,7 @@
 | **Дополнительно**  | Linux, CI/CD, Prometheus, FastAdmin, WordPress              |
 | **Интересы**       | Веб-разработка, парсинг данных, ML-интеграции, автоматизация |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iblat1041&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iblat1041&show_icons=true&theme=radical&hide_border=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Iblat1041&theme=radical)
 
 ### 🔥 Ключевые проекты
 - **[WRESTRUS90: Telegram-бот с VK-интеграцией](https://github.com/Iblat1041/WRESTRUS90)**  
