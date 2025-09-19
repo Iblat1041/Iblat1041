@@ -18,6 +18,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iblat1041&show_icons=true&theme=radical&hide_border=true)  
 
 ### 🔥 Ключевые проекты
+- **[REST API для управления складом и заказами](https://github.com/Iblat1041/order_service)**  
+  Telegram-бот с парсингом постов VK, FastAdmin-панелью для управления и уведомлениями модераторов. Настроен CI/CD и мониторинг через Prometheus.  
+  **Стек**: Django 4.2.5, Django REST Framework 3.14.0, PostgreSQL, Redis, Celery 5.3.4, Celery Beat 2.5.0, DRF Spectacular (OpenAPI 3.0), Docker, Docker Compose.
+  
 - **[WRESTRUS90: Telegram-бот с VK-интеграцией](https://github.com/Iblat1041/WRESTRUS90)**  
   Telegram-бот с парсингом постов VK, FastAdmin-панелью для управления и уведомлениями модераторов. Настроен CI/CD и мониторинг через Prometheus.  
   **Стек**: Python, FastAPI, PostgreSQL, Redis, Celery, Docker, VK API.
