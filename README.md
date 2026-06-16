@@ -18,37 +18,74 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iblat1041&show_icons=true&theme=radical&hide_border=true)  
 
 ### 🔥 Ключевые проекты
+---
+
+## 💼 Опыт работы
+
+### **ООО «Кибергид»** — Backend Developer  
+*с [дата начала] по настоящее время*  
+**Проект:** [prrepa.ru](https://prrepa.ru) — платформа для PR-специалистов, журналистов и малого бизнеса. Сервис собирает ссылки на публикации из открытых источников, анализирует цитируемость и формирует рекомендации по улучшению охвата.
+
+**Вклад и обязанности:**
+- Спроектировал архитектуру бэкенда с нуля;
+- Реализовал ключевую бизнес-логику, интеграции с внешними источниками данных;
+- Настроил процессы парсинга, обработки и сохранения данных;
+- Участвовал в формировании аналитики и рекомендаций;
+- Развернул и сопровождаю проект на сервере в Docker-контейнерах.
+
+**Стек:** Python, Django, DRF, PostgreSQL, Redis, Celery, Docker, Nginx.
+
+---
+
+### **RE-ACTION** — Backend Developer (стажировка)  
+*с [дата начала] по настоящее время*  
+**Проект:** [поиск-вакансий.рф](https://поиск-вакансий.рф) — сервисы автоматизации поиска вакансий и job-платформы.
+
+**Обязанности:**
+- Доработка бэкенд-функциональности, исправление ошибок;
+- Добавление новых возможностей для автоматизации поиска вакансий;
+- Интеграция API внешних сервисов, оптимизация производительности;
+- Парсинг источников, сбор и обработка данных с job-сайтов.
+
+**Стек:** Python, FastAPI, PostgreSQL, SQLAlchemy, Docker.
+
+---
+
+### **Командная разработка (НКО-проект)**  
+*Работа по ТЗ заказчика*  
+**Проект:** асинхронный API-сервис на FastAPI с Telegram-ботом для пребординга и онбординга персонала в ресторанах (подбор, тестирование, обучение).
+
+**Моя роль:** разработка системы тестов (создание, редактирование, блокировка), прохождение тестов в чате бота (серия сообщений с кнопками без прерываний), сохранение результатов в БД, интеграция с моделями.
+
+**Стек:** Python 3.11, FastAPI, FastAdmin, Aiogram, Pydantic, Alembic, SQLAlchemy, PostgreSQL, Docker.  
+**Репозиторий:** [TG_preboarding_onboarding_restaurant](https://github.com/Iblat1041/TG_preboarding_onboarding_restaurant) (docker-compose, миграции, админ-панель).
+
+---
+
+## 🔥 Ключевые проекты
+
 - **[REST API для управления складом и заказами](https://github.com/Iblat1041/order_service)**  
-  Проект представляет собой RESTful API для комплексного управления складской логистикой и заказами.
-  **Стек**: Django 4.2.5, Django REST Framework 3.14.0, PostgreSQL, Redis, Celery 5.3.4, Celery Beat 2.5.0, DRF Spectacular (OpenAPI 3.0), Docker, Docker Compose.
-  
+  RESTful API для складской логистики и заказов.  
+  **Стек:** Django 4.2.5, DRF 3.14.0, PostgreSQL, Redis, Celery 5.3.4, Celery Beat, DRF Spectacular, Docker.
+
 - **[WRESTRUS90: Telegram-бот с VK-интеграцией](https://github.com/Iblat1041/WRESTRUS90)**  
-  Telegram-бот с парсингом постов VK, FastAdmin-панелью для управления и уведомлениями модераторов. Настроен CI/CD и мониторинг через Prometheus.  
-  **Стек**: Python, FastAPI, PostgreSQL, Redis, Celery, Docker, VK API.
+  Телеграм-бот с парсингом постов VK, FastAdmin-панелью, уведомлениями модераторов, CI/CD и мониторингом Prometheus.  
+  **Стек:** Python, FastAPI, PostgreSQL, Redis, Celery, Docker, VK API.
 
 - **[Telegram-бот для пребординга и онбординга](https://github.com/Iblat1041/TG_preboarding_onboarding_restaurant)**  
-  Асинхронный API-сервис на FastAPI для подбора и обучения персонала в ресторанах. Реализовал тесты, интеграцию с моделями и сохранение данных в БД.  
-  **Стек**: Python, FastAPI, Aiogram, PostgreSQL, SQLAlchemy, Docker.
+  Асинхронный API-сервис для подбора и обучения персонала ресторанов. Реализованы тесты, интеграция с моделями, сохранение в БД.  
+  **Стек:** Python, FastAPI, Aiogram, PostgreSQL, SQLAlchemy, Docker.
 
-- **[QRKot: Благотворительный фонд](https://github.com/Iblat1041/cat_charity_fund)**  
-  Асинхронный API на FastAPI для управления пожертвованиями с поддержкой авторизации.  
-  **Стек**: Python, FastAPI, SQLAlchemy, Alembic, FastAPI Users.
+**Полный список проектов:** [github.com/Iblat1041](https://github.com/Iblat1041)
 
-- **[Foodgram: Социальная сеть рецептов](https://github.com/Iblat1041/foodgram)**  
-  Платформа для публикации рецептов с функциями подписок и избранного. Развёрнута на сервере с CI/CD.  
-  **Стек**: Python, Django, PostgreSQL, Nginx, Docker.
+---
 
-- **[API для Yatube](https://github.com/Iblat1041/api_final_yatube)**  
-  REST API для блоговой платформы с авторизацией через JWT.  
-  **Стек**: Python, Django, Django REST Framework, Simple JWT.
+## 📫 Контакты
 
-- **[Scrapy Parser PEP](https://github.com/Iblat1041/scrapy_parser_pep)**  
-  Парсер стандартов Python (PEP) с использованием Scrapy.  
-  **Стек**: Python, Scrapy.
+- Telegram: [@Ivan_1041](https://t.me/Ivan_1041)  
+- GitHub: [Iblat1041](https://github.com/Iblat1041)
 
-**Полный список проектов**: [github.com/Iblat1041](https://github.com/Iblat1041)
-
-Готов к тестовым заданиям и собеседованиям. Связаться со мной: [t.me/Ivan_1041](https://t.me/Ivan_1041).
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Iblat1041&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
