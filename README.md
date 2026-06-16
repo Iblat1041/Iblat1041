@@ -10,7 +10,7 @@
 |---------------------|-------------------------------------------------------------|
 | **Языки**          | Python                                                |
 | **Фреймворки**     | FastAPI, Django, Django REST Framework, Flask, Scrapy       |
-| **Базы данных**    | PostgreSQL, SQLite, SQLAlchemy, Alembic                     |
+| **Базы данных**    | PostgreSQL, SQLite, SQLAlchemy, Alembic, OpenSearch                      |
 | **Инструменты**    | Docker, Docker Compose, GitHub, GitHub Actions, Celery, Redis, nginx, Pytest, Unittest |
 | **Мониторинг и визуализация**  |	Prometheus, Grafana (дашборды, визуализация метрик) |
 | **Парсинг и веб-скрапинг** | BeautifulSoup4, Playwright, Scrapy, aiohttp, Requests, Telethon (асинхронный клиент Telegram API) |
