@@ -48,7 +48,7 @@
 - Интеграция API внешних сервисов, оптимизация производительности;
 - Парсинг источников, сбор и обработка данных с job-сайтов.
 
-**Стек:** Python 3.11+ · FastAPI · PostgreSQL · SQLAlchemy · Docker · asyncio · Playwright · BeautifulSoup4 · aiohttp
+**Стек:** Python 3.11+ · FastAPI · OpenSearch · SQLAlchemy · Docker · asyncio · Playwright · BeautifulSoup4 · aiohttp
 
 ---
 
