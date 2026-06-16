@@ -8,10 +8,11 @@
 ### 🛠️ Мои навыки
 | Категория           | Технологии и инструменты                                      |
 |---------------------|-------------------------------------------------------------|
-| **Языки**          | Python, Postgres                                                 |
+| **Языки**          | Python                                                |
 | **Фреймворки**     | FastAPI, Django, Django REST Framework, Flask, Scrapy       |
 | **Базы данных**    | PostgreSQL, SQLite, SQLAlchemy, Alembic                     |
 | **Инструменты**    | Docker, Docker Compose, GitHub, GitHub Actions, Celery, Redis, nginx, Pytest, Unittest |
+| **Парсинг и веб-скрапинг** | BeautifulSoup4, Playwright, Scrapy, aiohttp, Requests, Telethon (асинхронный клиент Telegram API) |
 | **API**            | Telegram API, VK API, REST API, JWT-аутентификация          |
 | **Дополнительно**  | Linux, CI/CD, Prometheus, FastAdmin, WordPress              |
 
@@ -32,7 +33,7 @@
 - Участвовал в формировании аналитики и рекомендаций;
 - Развернул и сопровождаю проект на сервере в Docker-контейнерах.
 
-**Стек:** Python, Django, DRF, PostgreSQL, Redis, Celery, Docker, Nginx.
+**Стек:** Python, Django, DRF, PostgreSQL, Redis, Celery, Docker, Nginx, BeautifulSoup4, Playwright
 
 ---
 
@@ -46,7 +47,7 @@
 - Интеграция API внешних сервисов, оптимизация производительности;
 - Парсинг источников, сбор и обработка данных с job-сайтов.
 
-**Стек:** Python, FastAPI, PostgreSQL, SQLAlchemy, Docker.
+**Стек:** Python 3.11+ · FastAPI · PostgreSQL · SQLAlchemy · Docker · asyncio · Playwright · BeautifulSoup4 · aiohttp
 
 ---
 
