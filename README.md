@@ -1,5 +1,5 @@
 ### 👋 Привет! Я Иван Брежнев
-Я — **Python-разработчик** с более чем 2 годами опыта в создании API, парсеров и Telegram-ботов. Моя страсть — разрабатывать и внедрять решения, которые автоматизируют процессы и решают реальные задачи. Специализируюсь на бэкенд-разработке.
+Я — **Python-разработчик** с более чем 2 годами опыта разработки. Моя страсть — разрабатывать и внедрять решения, которые автоматизируют процессы и решают реальные задачи. Специализируюсь на бэкенд-разработке.
 
 - 📧 **Email**: [brezhev@ya.ru](mailto:brezhev@ya.ru)  
 - 💬 **Telegram**: [t.me/Ivan_1041](https://t.me/Ivan_1041)  
@@ -8,7 +8,7 @@
 ### 🛠️ Мои навыки
 | Категория           | Технологии и инструменты                                      |
 |---------------------|-------------------------------------------------------------|
-| **Языки**          | Python, SQL                                                 |
+| **Языки**          | Python, Postgres                                                 |
 | **Фреймворки**     | FastAPI, Django, Django REST Framework, Flask, Scrapy       |
 | **Базы данных**    | PostgreSQL, SQLite, SQLAlchemy, Alembic                     |
 | **Инструменты**    | Docker, Docker Compose, GitHub, GitHub Actions, Celery, Redis, nginx, Pytest, Unittest |
@@ -17,7 +17,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iblat1041&show_icons=true&theme=radical&hide_border=true)  
 
-### 🔥 Ключевые проекты
 ---
 
 ## 💼 Опыт работы
@@ -62,7 +61,7 @@
 
 ---
 
-## 🔥 Ключевые проекты
+## 🔥 Проекты
 
 - **[REST API для управления складом и заказами](https://github.com/Iblat1041/order_service)**  
   RESTful API для складской логистики и заказов.  
