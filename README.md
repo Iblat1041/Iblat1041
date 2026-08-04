@@ -33,6 +33,7 @@
   - управление подписками и устройствами;
   - выдачу ссылок подключения;
   - административную часть и мониторинг инфраструктуры.
+
   **Стек:** Python, FastAPI, PostgreSQL, Redis, Celery, Docker, Nginx, Xray, Prometheus, Grafana.
 
 ### **[ООО «Кибергид»](https://www.rusprofile.ru/id/1226100029088)** — Backend Developer
